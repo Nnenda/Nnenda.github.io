@@ -51,15 +51,15 @@
 	
 }
 
-#testphone{
+.original{
 	width: 100px;
 	height: 100px;
 	position: absolute;
 	margin-top: 100px;
-	margin-left: 400px;
+	margin-left: 1000px;
 }
 
 #i100{
-	width: 100px;
-	height: 100px;
+	width: 300px;
+	height: 400px;
 }

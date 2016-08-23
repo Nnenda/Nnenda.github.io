@@ -147,6 +147,10 @@ $('document').ready(function(){
 		PuzzleGame();
 	})
 
+	$('#i100').click(function(){
+		$('body').append(123213213);
+	})
+
 
 })
 

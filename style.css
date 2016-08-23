@@ -51,3 +51,15 @@
 	
 }
 
+#testphone{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 400px;
+}
+
+#i100{
+	width: 100px;
+	height: 100px;
+}

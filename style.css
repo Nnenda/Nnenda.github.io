@@ -1,0 +1,53 @@
+.parts img{
+	width: 100px;
+	height: 100px;
+	padding: 3px;	
+}
+
+.parts div{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+}
+
+.parts{
+	position: absolute;
+	margin-top: 100px;
+}
+
+.picture div{
+	position: absolute;
+	background-color: #ccc;
+	width: 100px;
+	height: 100px;
+}
+
+.picture{
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 650px
+}
+
+.test{
+	width: 100px;
+	height: 100px;
+	background-color: green;
+}
+
+.win{
+	width: 400px;
+	height: 400px;
+	margin-top: 30px;
+	display: none;
+}
+
+.button{
+	position: absolute;
+	margin-left: 450px;
+	margin-top: 300px;
+	border-radius: 5px;
+	z-index: 1000;
+	display: none;
+	
+}
+

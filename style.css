@@ -39,6 +39,7 @@
 	height: 400px;
 	margin-top: 30px;
 	display: none;
+	position: absolute;
 }
 
 .button{
